@@ -1,0 +1,14 @@
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\bin\Debug\net8.0\Task29.exe
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\bin\Debug\net8.0\Task29.deps.json
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\bin\Debug\net8.0\Task29.runtimeconfig.json
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\bin\Debug\net8.0\Task29.dll
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\bin\Debug\net8.0\Task29.pdb
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.AssemblyInfoInputs.cache
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.AssemblyInfo.cs
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.dll
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\refint\Task29.dll
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.pdb
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\Task29.genruntimeconfig.cache
+C:\Users\РомаиЛиля\Desktop\C#Task29\Task29\obj\Debug\net8.0\ref\Task29.dll
